@@ -1,0 +1,17 @@
+{
+  "mute_all": false,
+  "bindings": {
+    "parent": {
+      "hotkey": "Alt+1",
+      "enabled": true
+    },
+    "child": {
+      "hotkey": "Alt+2",
+      "enabled": true
+    },
+    "all_child": {
+      "hotkey": "Alt+4",
+      "enabled": true
+    }
+  }
+}
